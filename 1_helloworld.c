@@ -5,7 +5,3 @@ int main()          // main function
     printf("Hola From Zap");
 }
 
-/*
-compile code using:         gcc filename.c
-execute a executable using: ./a.exe (windows) OR ./a.out (linux)
-*/
